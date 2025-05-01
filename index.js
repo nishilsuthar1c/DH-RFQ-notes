@@ -8,7 +8,8 @@ app.use(bodyParser.json());
 
 const storeHash = 'iwxkme8jmh';
 const accessToken = 'ak5uhha5ydl4xruv60d03nqwcbszeix';
-const ngrokURL = 'https://a4e0-202-131-125-122.ngrok-free.app';
+//If this err comes : Error fetching data: Error: Network response was not ok, change the ngrok url
+const ngrokURL = 'https://dh-rfq-notes.vercel.app';
 
 const myChannelId = 1;
 
